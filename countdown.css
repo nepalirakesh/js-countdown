@@ -1,0 +1,50 @@
+body{
+
+    background-image: url('wallpaper.jpg');
+    
+}
+
+
+.container{
+    justify-content: center;
+    margin-bottom:auto;
+}
+#heading{
+
+   text-align:center;
+   font-size:50px;
+   margin-top:100px;
+ 
+}
+.timer{
+ 
+    text-align:center;
+    width:aut0;
+  
+}
+
+.timer h1{
+    display:inline-block;
+    width:130px;
+    font-size: 85px;
+    margin:0 20px;
+   
+   
+}
+.timer h1:last-child{
+    color:rgb(189, 88, 88);
+}
+.timer-name{
+    text-align:center;
+}
+
+.timer-name h1{
+  
+    display:inline-block;
+    width:130px;
+  margin:0 20px;
+    font-size: 20px;
+   
+}
+
+
